@@ -1,2 +1,2 @@
 # pcbguide
- my very first ocb
+ my very first pcb
